@@ -40,5 +40,5 @@ Deposit: Users can deposit a specified amount into their account.
 Withdrawal: Users can withdraw a specified amount from their account, subject to available balance.
 
 Technologies Used
-Java
+Java,
 Object-Oriented Programming (OOP) principles
