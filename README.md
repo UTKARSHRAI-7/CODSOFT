@@ -28,3 +28,17 @@ Java
 *********************************************************************************************************************************
 
 
+3. ATM Machine Application
+The ATM Machine Application allows users to:
+
+Check their balance
+Deposit money
+Withdraw funds
+Features
+Balance Inquiry: Users can check their current account balance.
+Deposit: Users can deposit a specified amount into their account.
+Withdrawal: Users can withdraw a specified amount from their account, subject to available balance.
+
+Technologies Used
+Java
+Object-Oriented Programming (OOP) principles
