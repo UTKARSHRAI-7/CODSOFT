@@ -14,4 +14,17 @@ Technologies Used
 Java
 ********************************************************************************************************************************
 
+2. Student Result Calculator
+The Student Result Calculator computes and displays the result of a student based on marks obtained in various subjects.
+
+Features
+Input marks for different subjects
+Calculate total marks
+Calculate percentage
+Determine pass/fail status
+
+Technologies Used
+Java
+*********************************************************************************************************************************
+
 
